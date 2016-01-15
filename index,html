@@ -1,0 +1,243 @@
+  <!DOCTYPE html>
+ 
+<html lang="es">
+ 
+<head>
+<title>TRELLo</title>
+<meta charset="utf-8" />
+<link href="estilos/style.css" rel="stylesheet" type="text/css">
+</head>
+ 
+<body>
+    <div class="divSuperdiv1">
+        
+    <div class="divLogo">
+        <a><img src="imagenes/Captura.PNG"></a>
+    </div>
+    <div class="divParrafo1">
+        <p class="aTitulo1">Trello es la manera gratuita, flexible y visual de
+                           organizarlo todo con cualquiera.</p>
+    </div>
+    
+     <div class="divParrafo2">
+         
+        <p class="aTitulo">Deje a un lado las largas cadenas de correos electrónicos, las
+                           hojas de cálculo sin actualizar, las notas rápidas ya no tan
+                           adhesivas y el oftware inadecuado para gestionar sus 
+                           proyectos. Trello le deja ver todo sobre su proyecto de un
+                           solo vistazo.</p>
+    </div>
+        
+    <div class="divBoton">
+            <button class="botoncito">Registrate. ¡Es gratis!</button>
+    </div>
+    
+       <a class="alink1" href="#">iniciar sesion en...</a>
+    </div>
+        
+    
+    <div class="divSuperdiv2">
+        
+        <p class="pParrafo3">Esto es un tablero de Trello. Es una lista de listas completada<br> con tarjetas, utilizada con un equipo o en solitario.</p>
+        
+        <img  class="imgTrello2" src="imagenes/trello2.png">
+        
+        <p class="pParrafo4">Arrastre y suelte tarjetas entre las listas para mostrar el 
+           progreso. Añada tantas personas como necesite y
+           arrástrelas a las tarjetas. Añada y vuelva a ordenar las listas
+           tal como lo necesite. <b>Trello se adapta a su proyecto, equipo
+           y flujo de trabajo.</b>
+        
+           Verá todo sobre su proyecto con tan solo echar un vistazo al 
+           tablero, y todo se actualiza en tiempo real. No hay nada que
+           configurar y todo el mundo lo obtiene al instante.
+        
+        
+        
+        </p>
+        
+    </div>    
+    
+    <div class="divSuperdiv3">
+            <p class="pParrafo5">
+                
+                Trello es simple en la superficie, pero las tarjetas tienen
+                <b>todo lo necesario para hacer el trabajo.</b> Publique 
+                comentarios para obtener respuesta inmediata. Cargue
+                archivos desde su ordenador, Google Drive, Dropbox, Box y 
+                OneDrive. Añada checklists, etiquetas, fechas de
+                vencimiento y otros elementos. Con las notificaciones se 
+                puede asegurar de saber siempre cuándo sucede algo
+                importante.</p>
+        
+        <div style="text-align:center;"><button class="botoncito2">Vea todo lo que puede hacer trello.</button></div>
+        
+       <div style="text-align:center;"><img  class="imgTrello3" src="imagenes/trello3.png"></div>
+        
+    </div>
+    
+    
+    <div class="divSuperdiv4">
+        
+        <p class="pParrafo6">
+            Trello permanece perfectamente sincronizado en todos sus 
+            dispositivos allá donde esté. Hay aplicaciones rápidas e 
+            intuitivas para la web, los teléfonos y las tabletas Android, 
+            iPhone y iPad, y Kindle Fire.
+        
+        </p>
+        
+        <img class="imgTrello4" src="imagenes/trello4.png">
+        
+        <div class="divBotones">
+        <a href="#"><img src="imagenes/app-store-badge_es.svg"></a>
+        <a href="#"><img src="imagenes/play-store-badge_es.png"></a>
+        </div>
+        
+        
+        <button class="botoncito3">Ver todas las aplicaciones</button>
+    </div>
+    
+    
+    
+    <div class="divSuperdiv5">
+        
+        <p class="pParrafo7">
+            Trello nunca le abrumará con funcionalidades que no va a 
+            utilizar. Para quienes desean aprovechar más sus tableros, 
+            existen <b>potenciadores</b>, como el calendario, el vencimiento 
+            de la tarjeta y las votaciones, que puede activar. Es una 
+            manera de ofrecer más sin atestarlo de cosas para todos.
+        </p>
+    
+        <img class="imgTrello5" src="imagenes/trello5.png">
+    </div>
+    
+    <div class="divSuperdiv6">
+        
+        <p class="pParrafo8">
+            
+            <b>A millones de personas</b> y a empresas de todos los tipos y tamaños les encanta utilizar Trello.</p>
+    
+    
+        
+            <div class="imagenes">
+        <img class="imgFlot1" src="imagenes/freshdirect.svg">
+            
+        
+        
+        <img class="imgFlot2" src="imagenes/thenewyorktimes.svg">
+        
+        
+  
+        <img class="imgFlot3" src="imagenes/53.svg">
+        
+        
+        
+        <img class="imgFlot4" src="imagenes/theverge.svg">
+        
+            
+        
+        <img class="imgFlot5" src="imagenes/adobe.svg">
+        
+            
+        
+        <img class="imgFlot6" src="imagenes/tumblr.svg">
+       
+        
+        
+        <img class="imgFlot7" src="imagenes/google.svg">
+       
+        
+        
+        <img class="imgFlot8" src="imagenes/paypal.svg">
+        
+            
+        
+        <img class="imgFlot9" src="imagenes/kickstarter.svg">
+        
+        </div>
+        
+        
+        
+        <div class="divSuperdiv7">
+            
+            <p class="pParrafo9">
+                ¿Su empresa u organización necesita controles 
+                administrativos adicionales y una potencia superior de 
+                equipo? Hemos creado <b>Business Class</b> para usted.</p>
+        
+            <img class="imgTrelloBusines" src="imagenes/business-class-logo-white.svg">
+            
+            <button class="botoncito4">Mas informacion acerca de Business Class</button>
+        </div
+            
+        
+            
+    </div>
+            
+            
+            
+            
+            
+            <div class="divSuperdiv8">
+                
+                <p class="pParrafo10">
+                    Descarte las notas rápidas, hojas de cálculo, correo 
+                    electrónico y el software inadecuado para gestionar sus 
+                    proyectos y pase a ser una de los millones de personas que 
+                    se han quedado prendadas de Trello. Puede añadir tantos 
+                    tableros y tantas personas como desee con su cuenta 
+                    gratuita.
+                </p>
+                
+                <<div class="divBoton">
+                    <button class="botoncito">Registrate. ¡Es gratis!</button>
+                </div>  
+            </div>
+    
+        
+        <div class="divSuperdiv9">
+            
+            <img  class="Taco" src="imagenes/home-taco.png">
+            
+            <p class="pParrafo11">
+                Oh, y este es <b>Taco, nuestro husky portavoz.</b>
+                Lo verá por aquí.</p>
+        
+        </div>
+    
+    
+    
+        <div class="divSuperdiv10">
+            
+            <div class="listaf">
+            
+            <ul>
+                 <li class="Flo"><a class="linkf" href="#">Visita guiada</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Precios</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Aplicaciones</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Trabajos</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Blog</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Desarrolladores</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Acerca de</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Ayuda</a></li>
+                 <li class="Flo"><a class="linkf" href="#">Legal</a></li>   
+            </ul>
+                
+                <a href="#">.</a>
+            
+                </div>
+            
+            
+            <P class="pParrafo12">
+                © Derechos de autor de 2016 Trello, Inc. Todos los derechos reservados.
+            </P>
+            
+<p class="pParrafo13">
+    Algunas partes de esta página han sido traducidas automáticamente por <b class="bt">Google Translate</b>. Actualmente, traductores humanos se están encargando de traducir esas partes lo más rápido posible. <b class="bt">Aquí puede leer la declinación</b> de responsabilidades por traducción automática.
+            </p>
+           
+        </div>
+</body>
+</html>
