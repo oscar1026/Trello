@@ -1,0 +1,445 @@
+
+body{
+    width: 100%;
+    
+}
+p.aTitulo{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: #4d4d4d;
+    white-space: pre-line;
+    
+    line-height: 35px;
+    text-align: center;
+}
+
+p.aTitulo1{
+    font-family: "Arial", sans-serif;
+    font-size: 35px;
+    color: #4d4d4d;
+    white-space: pre-line;
+    
+    line-height: 35px;
+    text-align: center;
+}
+
+div.divLogo{
+    text-align: center;
+    margin-top: 130px;
+}
+div.divParrafo1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: "arial", sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #4d4d4d;
+}
+/*
+div.divParrafo2{
+    margin-top: 20px;
+    font-family: "arial", sans-serif;
+    font-size: 20px;
+    color: #4d4d4d;
+    line-height: 30px;
+}
+*/
+div.divBoton{
+    text-align: center;
+    margin-top: 30px; 
+}
+button.botoncito{
+     background-color: forestgreen;
+     color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 260px;
+    height: 60px;
+    border-radius: 10px;
+}
+a.alink1{
+    text-decoration: underline;
+    color: #D2D2D2;
+    font-family: "arial", sans-serif;
+    font-size: 30px;
+    margin-left: 44.5%;
+    position: relative;
+    top: 30px;
+}
+a.alink1:hover{
+    color: #333333;
+}
+/*SUPERDIV2*/
+
+div.divSuperdiv2{
+    
+    position: relative;
+    top: 100px;
+    background-color: #0079bf;    
+}
+
+img.imgTrello2{
+    margin-left: 13%;
+    margin-right: 18%;
+    margin-top: 10%;   
+}
+
+p.pParrafo3{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: white;
+    white-space: pre-line;
+    margin-left: 35%;
+    position: relative;
+    top: 50px;
+    line-height: 30px;
+}
+p.pParrafo4{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: white;
+    white-space: pre-line;
+    margin-left: 35%;
+    line-height: 40px;
+    
+}
+
+div.divSuperdiv3{
+     position: relative;
+     top: 100px;
+}
+
+p.pParrafo5{
+    
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    
+     white-space: pre-line;
+
+    line-height: 40px;
+    text-align: center;
+}
+
+button.botoncito2{
+    background-color: white;
+    border-color: #265773;
+    color: #265773;
+    width: 400px;
+    height: 70px;
+    border-radius: 7px;
+    font-family: "Arial", sans-serif;
+    font-size: 24px;
+
+    
+}
+button.botoncito2:hover{
+     border-color: gray;
+     color: gray;
+}
+
+img.imgTrello3{
+    width: 50%;
+    position: relative;
+    top: 50px;
+}
+
+div.divSuperdiv4{
+     position: relative;
+     top: 150px;
+    background-color: #e4f0f6;
+    height: 450px;
+}
+
+img.imgTrello4{
+    margin-left: 60%;
+    position: relative;
+    top: -150px;
+    
+}
+p.pParrafo6{
+    
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: #4d4d4d;
+    white-space: pre-line;
+    margin-left: 20%;
+    line-height: 35px;
+    position: relative;
+    top: 50px;
+}
+div.divBotones{
+    margin-left: 20%;
+    margin-top: -12%;
+    
+}
+button.botoncito3{
+    margin-left: 20%;
+    margin-top: 1%;
+    
+    background-color: #e4f0f6;
+    border-color: #265773;
+    color: #265773;
+    width: 300px;
+    height: 50px;
+    border-radius: 7px;
+    font-family: "Arial", sans-serif;
+    font-size: 24px;
+}
+button.botoncito3:hover{
+     border-color: gray;
+     color: gray;
+}
+
+div.divSuperdiv5{
+    position: relative;
+    top: 150px;
+    background-color: white;
+    height: 300px;
+    
+}
+
+img.imgTrello5{
+margin-left: 60%;
+    position: relative;
+    top: -215px;
+}
+
+p.pParrafo7{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: #4d4d4d;
+    white-space: pre-line;
+    margin-left: 20%;
+    line-height: 35px;
+}
+
+
+div.divSuperdiv6{
+    position: relative;
+    top: 150px;
+    background-color: #0079bf;
+    height: 400px;
+    width: 100%;
+}
+p.pParrafo8{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: white;
+    white-space: pre-line;
+    
+    line-height: 35px;
+    text-align: center;
+}
+
+img.imgFlot1{
+    position: relative;
+    top: -20px;
+    left: 15%;
+}
+
+img.imgFlot2{
+    position: relative;
+    top: -20px;
+    left: 18%;
+}
+
+img.imgFlot3{
+    position: relative;
+    top: -20px;
+    left: 21%;
+}
+
+
+img.imgFlot4{
+    position: relative;
+    top: -20px;
+    left: 25%;
+}
+
+
+img.imgFlot5{
+    position: relative;
+    top: -20px;
+    left: 30%;
+}
+
+
+img.imgFlot6{
+    position: relative;
+    top: -20px;
+    left: 35%;
+}
+
+
+img.imgFlot7{
+    position: relative;
+    top: 70px;
+    right: 25%;
+}
+
+
+img.imgFlot8{
+    position: relative;
+    top: 70px;
+    left: -17%;
+}
+
+
+img.imgFlot9{
+    position: relative;
+    top: 70px;
+    left: -8%;
+}
+div.divSuperdiv7{
+    
+    position: relative;
+    top: 180px;
+    background-color: #42548e;
+    height: 400px;
+}
+
+p.pParrafo9{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: white;
+    white-space: pre-line;
+    line-height: 35px;
+    position: relative;
+    top: 80px;
+    right: -35%;
+    
+}
+
+img.imgTrelloBusines{
+    margin-left: 18%;
+    position: relative;
+    top: -90px;
+    width: 300px;
+    height: 200PX;
+}
+
+
+button.botoncito4{
+    
+    position: relative;
+    top: -80px;
+    
+    margin-left: 1%;
+    background-color: #42548e;
+    border-color: white;
+    color: white;
+    width: 500px;
+    height: 50px;
+    border-radius: 7px;
+    font-family: "Arial", sans-serif;
+    font-size: 24px;
+    
+}
+button.botoncito4:hover{
+     border-color: gray;
+     color: gray;
+}
+
+
+div.divSuperdiv8{
+    position: relative;
+    top: 200px;
+    
+}
+
+p.pParrafo10{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: #4d4d4d;
+    white-space: pre-line;
+    line-height: 35px;
+    text-align: center;
+}
+
+div.divSuperdiv9{
+    
+    background-color: #0079bf;
+    position: relative;
+    top: 240px;
+    height: 240px;
+}
+
+img.Taco{
+    margin-left: 35%;
+    position: relative;
+    top: 30px;
+}
+p.pParrafo11{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    color: white;
+    white-space: pre-line;
+    line-height: 35px;
+    margin-left: 45%;
+    position: relative;
+    top: -150px;
+}
+
+
+div.divSuperdiv10{
+    position: relative;
+    top: 450px;
+    text-align: center;
+    height: 150px;
+}
+div.listaf{
+    position: relative;
+    top: -200px;
+    margin-left: 27%;
+}
+li.Flo{
+    
+    list-style: none;
+    float: left;
+    width: 7%;
+}
+
+a.linkf{
+    color: #4d4d4d;
+    font-family: "Arial", sans-serif;
+    font-size: 15px;
+}
+
+a.linkf:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+p.pParrafo12{
+    font-family: "Arial", sans-serif;
+    font-size: 15px;
+    color: #4d4d4d;
+    white-space: pre-line;
+    line-height: 35px;
+    margin-left: -5%;
+    position: relative;
+    top: -200px;
+}
+
+p.pParrafo13{
+    font-family: "Arial", sans-serif;
+    font-size: 15px;
+    color: #4d4d4d;
+    white-space: pre-line;
+    line-height: 35px;
+    position: relative;
+    top: -250px;
+    
+    
+}
+
+
+    b.bt{
+        text-decoration: underline;
+    }
+
+b.bt:hover{
+    color: black;
+}
+
+
